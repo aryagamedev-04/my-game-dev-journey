@@ -13,3 +13,6 @@
 **Status:** My game development journey has officially started! 🔥  
 
 **Next Target:** Arrange a PC/Laptop and start making actual games
+
+**Why GitHub?**  
+I will upload all my game projects here as I learn Unity and build towards open-world games.
